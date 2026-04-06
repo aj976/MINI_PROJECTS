@@ -1,3 +1,14 @@
 prd.md
 bin/
 *.class
+# compiled files
+bin/
+*.class
+
+# eclipse / ide junk
+.project
+.classpath
+.settings/
+
+# optional
+*.log
